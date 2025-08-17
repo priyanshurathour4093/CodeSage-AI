@@ -48,5 +48,7 @@ An AI-powered code reviewer web app that analyzes your code, detects bad practic
 🎯 Usage
 
 1-Open the app in your browser.
+
 2-Paste or type code in the editor.
+
 3-View AI-generated feedback with issues and suggestions.
